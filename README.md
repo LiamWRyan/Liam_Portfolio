@@ -1,7 +1,7 @@
 # Liam Ryan 
 Data Science Portfolio 
 
-# Project 1: Android Scheduling Application. 
+# [Project 1: Android Scheduling Application.](https://github.com/LiamWRyan/w21goldwasser) 
 
 ### Scheduling Application: Team Goldwasser (CMPT 395 Winter 2021)
 
@@ -40,23 +40,23 @@ Together, we set out to develop an application that could be fitted to any busin
 ----
 
 ### Implemented Features
-- Adding and Removing of Employees
-- Input Employee Data
-- Edit Employee Data
-- View employee data
+- Adding and removing of employees.
+- Input employee data.
+- Edit employee data.
+- View employee data.
 - Interactive UI for Schedules views. (Product owner request)
 - Calendar UI to view old and future schedules.
-- Soft deleting of Employees.
-- Creation of a Schedule
-- Edit schedule
-- Save/Load Progress on exit
-- Fill blanks with recommendations
+- Soft deleting of employees.
+- Creation of a schedule.
+- Edit schedule.
+- Save/Load progress on exit.
+- Fill blanks with recommendations.
 - Not implemented across the entire system yet; some items are reserved for future sprints. Currently, while filling in shifts with employees, it recommends the employees according to the specifications.
-- Deliver Schedule
+- Deliver schedule.
 - PDF viewing and download. 
 - Email integration + Automatic Email listing.
 - Auto formatting of pdf document for the targeted export schedule month.
-- Recommendations based on statistics
+- Recommendations based on statistics.
 - Implemented as a toast message (warning) before schedule delivery if the schedule is not filled out properly.
 
                 
@@ -66,7 +66,7 @@ Together, we set out to develop an application that could be fitted to any busin
 - Github: <https://github.com/>
 - Git: <https://git-scm.com/downloads>
 - Android Studio: <https://developer.android.com/studio>
-	- Default “File Provider” package; comes with Android Studio
+	- Default “File Provider” package; comes with Android Studio.
 
                 
 ----
