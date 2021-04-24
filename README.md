@@ -1,7 +1,7 @@
-# Liam Ryan Data Science Portfolio 
+# Liam Ryan 
 Data Science Portfolio 
 
-# Project 1: Android Scheduling Application 
+# Project 1: Android Scheduling Application. 
 
 ### Scheduling Application: Team Goldwasser (CMPT 395 Winter 2021)
 
