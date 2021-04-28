@@ -5,7 +5,7 @@ Data Science Portfolio
 
 ### Scheduling Application: Team Goldwasser (CMPT 395 Winter 2021)
 
-Welcome to our scheduling application developed by Team Goldwasser. Our team consists of 4 members; namely:
+Developers
 
 - Liam Ryan
 - Eddy Nkerabahizi
