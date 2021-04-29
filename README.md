@@ -4,15 +4,7 @@ Data Science Portfolio
 # [Project 1: Android Scheduling Application.](https://github.com/LiamWRyan/w21goldwasser) 
 
 ### Scheduling Application: Team Goldwasser (CMPT 395 Winter 2021)
-
-Developers
-
-- Liam Ryan
-- Eddy Nkerabahizi
-- Ryan Chmait
-- Sean Mildenberger
-
-                
+             
 ----
 
 ### Goals
