@@ -9,7 +9,7 @@ Data Science Portfolio
 
 ### Goals
 
-Together, we set out to develop an application that could be fitted to any businesses scheduling needs. In its current state it is fitted to the following needs for a fast food restaurant, whose scheduling manager is our product manager. They requested the following process and outcomes (start quote):
+Develop an android application that could be fitted to any businesses scheduling needs. In its current state it is fitted to the following needs for a fast food restaurant, whose scheduling manager is our product manager. They requested the following process and outcomes (start quote):
 
 > __Business Processes__
 > - From Monday to Friday, the restaurant has two shifts, morning shift and afternoon shift. On Saturday and Sunday, the restaurant has one shift, a full-day shift. Two students are required for each shift. Occasionally, on some busy days (e.g. before Christmas), three students are required.
@@ -30,3 +30,5 @@ Together, we set out to develop an application that could be fitted to any busin
 (end quote)
                 
 ----
+
+More projects will be added in the near future...
