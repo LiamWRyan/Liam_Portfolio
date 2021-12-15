@@ -31,4 +31,11 @@ Develop an android application that could be fitted to any businesses scheduling
                 
 ----
 
+# [Project 2: Property Assessment GUI.](https://github.com/LiamWRyan/w21goldwasser) 
+
+### Edmonton Property Assessment GUI
+
+
+
+
 More projects will be added in the near future...
