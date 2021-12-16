@@ -13,6 +13,6 @@ and deliver that schedule to said employees.
 ### Edmonton Property Assessment GUI (Fall 2021)
 Create a GUI that supports the various querying of property assessments in Edmonton using Edmontons Open Data Portal API.
 ---
-
+![](https://github.com/LiamWRyan/PropertyAssessmentGUI/blob/main/Images/Read%20Data.jpg)
 
 More projects will be added in the near future...
