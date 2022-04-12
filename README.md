@@ -6,7 +6,7 @@ Security.
 ---
 <details>
   <summary> Code Projects </summary>
-  <br>
+
 # [Project 1: Android Scheduling Application.](https://github.com/LiamWRyan/w21goldwasser) 
 
 ### Scheduling Application: Team Goldwasser (Winter 2021) 
