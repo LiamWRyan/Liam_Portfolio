@@ -23,3 +23,7 @@ Create a GUI that supports the various querying of property assessments in Edmon
 
 More projects will be added in the near future...
 </detials>
+
+<details>
+  <summary> Security Writeups </summary>
+</detials>
