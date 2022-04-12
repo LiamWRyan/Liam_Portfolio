@@ -1,10 +1,10 @@
-# Liam Ryan 
-Data Science Portfolio 
+# Hi there
+I am a Canadian student pursuing a degree in Computer Science Data and Information Security.
 ---
 # [Project 1: Android Scheduling Application.](https://github.com/LiamWRyan/w21goldwasser) 
 
 ### Scheduling Application: Team Goldwasser (Winter 2021) 
-Create an adnroid application for a food court business that will allow the manager to build and view an employee schedule
+Create an Android application for a food court business that will allow the manager to build and view an employee schedule
 and deliver that schedule to said employees.
 ----
               
