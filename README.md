@@ -4,8 +4,8 @@ Security.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiamWRyan)](https://github.com/anuraghazra/github-readme-stats)
 ---
-<p>
-<details><summary> Code Projects</summary>
+
+<details><summary>Code Projects</summary>
   
 # [Project 1: Android Scheduling Application.](https://github.com/LiamWRyan/w21goldwasser) 
 
@@ -23,14 +23,20 @@ Create a GUI that supports the various querying of property assessments in Edmon
 
 More projects will be added in the near future...
 
-  </detials>
+  </details>
 
 ---
 
-  <details><summary> Security Writeups</summary>
+  <details><summary>Security Writeups</summary>
+ 
+
+  </details>
+  
+---
+
+<details><summary>Cyber Security Competitions</summary>
  
 
   </details>
 
-</p>
 
