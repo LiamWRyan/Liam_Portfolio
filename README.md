@@ -1,5 +1,6 @@
-# Hi there
+# Hi there 👋
 I am a Canadian student pursuing a degree in Computer Science Data and Information Security.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiamWRyan)](https://github.com/anuraghazra/github-readme-stats)
 ---
 # [Project 1: Android Scheduling Application.](https://github.com/LiamWRyan/w21goldwasser) 
 
