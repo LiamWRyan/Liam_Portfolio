@@ -36,8 +36,11 @@ More projects will be added in the near future...
 ---
 
 <details><summary>Cyber Security Competitions</summary>
- 
-![](https://github.com/LiamWRyan/image_src_repo/blob/main/Liam%20Ryan%20-%20Cyber%20Skyline%20Report.pdf)
+Visit the following link for more details and to validate the report:
+   cyberskyline.com/report/1G0N5593TNNP
+
+  
+![](https://github.com/LiamWRyan/image_src_repo/blob/main/1.jpg)
   </details>
 
 
