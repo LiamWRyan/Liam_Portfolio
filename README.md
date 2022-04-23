@@ -28,7 +28,8 @@ More projects will be added in the near future...
 ---
 
   <details><summary>Security Writeups</summary>
- 
+  
+  
 
   </details>
   
@@ -36,7 +37,7 @@ More projects will be added in the near future...
 
 <details><summary>Cyber Security Competitions</summary>
  
-
+![](https://github.com/LiamWRyan/image_src_repo/blob/main/Liam%20Ryan%20-%20Cyber%20Skyline%20Report.pdf)
   </details>
 
 
