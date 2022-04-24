@@ -39,8 +39,8 @@ More projects will be added in the near future...
 # [Validation and Full Report](https://cyberskyline.com/report/1G0N5593TNNP)
   
 <p float="center">
-  <img src="https://github.com/LiamWRyan/image_src_repo/blob/main/1.jpg" width="500" />
-  <img src="https://github.com/LiamWRyan/image_src_repo/blob/main/2.jpg" width="500" /> 
+  <img src="https://github.com/LiamWRyan/image_src_repo/blob/main/1.jpg" width="475" />
+  <img src="https://github.com/LiamWRyan/image_src_repo/blob/main/2.jpg" width="475" /> 
 </p>
   
 
