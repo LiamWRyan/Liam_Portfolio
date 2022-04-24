@@ -1,6 +1,5 @@
 # Hi there 👋
-I am a Canadian student pursuing a degree in Computer Science Data and Information 
-Security.
+I am a computer science student.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiamWRyan)](https://github.com/anuraghazra/github-readme-stats)
 ---
