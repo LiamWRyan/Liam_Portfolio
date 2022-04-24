@@ -38,9 +38,10 @@ More projects will be added in the near future...
 <details><summary>Cyber Security Competitions</summary>
   
 # [Validation and Full Report](https://cyberskyline.com/report/1G0N5593TNNP)
-
   
-![](https://github.com/LiamWRyan/image_src_repo/blob/main/1.jpg)
-  </details>
-
+<p float="center">
+  <img src="https://github.com/LiamWRyan/image_src_repo/blob/main/1.jpg" width="500" />
+  <img src="https://github.com/LiamWRyan/image_src_repo/blob/main/2.jpg" width="500" /> 
+</p>
+  
 
