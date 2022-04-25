@@ -31,8 +31,11 @@ More projects will be added in the near future...
   <!--- hashlength extension pdf -->
   
   # Seed Labs
-  <a href="https://github.com/LiamWRyan/image_src_repo/blob/main/Hash%20Length%20Extension%20Attack%20Lab.pdf">Hash Length Extension Attack Lab</a>
- 
+  
+  
+  ## [Hash Length Extension Lab](https://github.com/LiamWRyan/image_src_repo/blob/main/Hash%20Length%20Extension%20Attack%20Lab.pdf)
+  ![](https://github.com/LiamWRyan/image_src_repo/blob/main/Hash%20Length%20Exension%20Intro.jpg)
+
   </details>
   
 ---
