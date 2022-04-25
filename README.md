@@ -28,8 +28,11 @@ More projects will be added in the near future...
 
   <details><summary>Security Writeups</summary>
   
+  <!--- hashlength extension pdf -->
   
-
+  # Seed Labs
+  <a href="https://github.com/LiamWRyan/image_src_repo/blob/main/Hash%20Length%20Extension%20Attack%20Lab.pdf">Hash Length Extension Attack Lab</a>
+ 
   </details>
   
 ---
