@@ -1,5 +1,5 @@
 # Hi there 👋
-
+(This is in the progress of being built, I have several projects I have yet to add)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiamWRyan)](https://github.com/anuraghazra/github-readme-stats)
 ---
