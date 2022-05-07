@@ -28,14 +28,18 @@ More projects will be added in the near future...
 
   <details><summary>Security Writeups</summary>
   
-  <!--- hashlength extension pdf -->
-  
+ 
+  <!--- SEED LABS HEADER START -->
   # Seed Labs
-  
-  
+  <!--- Cryptography Section -->
+  <details><summary>Cryptography</summary>
+    
+  <!--- hashlength extension pdf -->
   ## [Hash Length Extension Lab](https://github.com/LiamWRyan/image_src_repo/blob/main/Hash%20Length%20Extension%20Attack%20Lab.pdf)
   ![](https://github.com/LiamWRyan/image_src_repo/blob/main/Hash%20Length%20Exension%20Intro.jpg)
-
+    </details>
+  
+  
   </details>
   
 ---
