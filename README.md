@@ -37,6 +37,9 @@ More projects will be added in the near future...
   <!--- hashlength extension pdf -->
   ## [Hash Length Extension Lab](https://github.com/LiamWRyan/image_src_repo/blob/main/Hash%20Length%20Extension%20Attack%20Lab.pdf)
   ![](https://github.com/LiamWRyan/image_src_repo/blob/main/Hash%20Length%20Exension%20Intro.jpg)
+  <!--- MD5 collision pdf -->
+  ## [MD5 Collision Lab](https://github.com/LiamWRyan/image_src_repo/blob/main/MD5%20Collision%20Writeup.pdf)
+  ![](https://github.com/LiamWRyan/image_src_repo/blob/main/MD5_Collision_intro.jpg)
     </details>
   
   
