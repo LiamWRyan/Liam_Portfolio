@@ -4,16 +4,16 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiamWRyan)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
-<details><summary>Code Projects</summary>
+<details><summary> Code Projects</summary>
 
 <!---PROJECT 1 -->
-# [Project 1: Android Scheduling Application.](https://github.com/LiamWRyan/w21goldwasser) 
+## [Project 1: Android Scheduling Application.](https://github.com/LiamWRyan/w21goldwasser) 
 
 ### Scheduling Application: Team Goldwasser (Winter 2021) 
   #### Create an Android application for a food court business that will allow the manager to build and view an employee schedule and deliver that schedule to said        employees.
 
 <!---PROJECT 2 -->          
-# [Project 2: Property Assessment GUI.](https://github.com/LiamWRyan/PropertyAssessmentGUI) 
+## [Project 2: Property Assessment GUI.](https://github.com/LiamWRyan/PropertyAssessmentGUI) 
 
 ### Edmonton Property Assessment GUI (Fall 2021)
   #### Create a GUI that supports the various querying of property assessments in Edmonton using Edmontons Open Data Portal API.
@@ -21,7 +21,7 @@
 ![](https://github.com/LiamWRyan/PropertyAssessmentGUI/blob/main/Images/Read%20Data.jpg)
 
 <!---PROJECT 3 -->
-# [Project 3: Dash & Plotly Information Visualization Web Application](https://github.com/LiamWRyan/StubEnhancer) 
+## [Project 3: Dash & Plotly Information Visualization Web Application](https://github.com/LiamWRyan/StubEnhancer) 
 
 ### Stubenhancer (Fall 2022)
   #### Using machine learning methodolgies and statitiscal analysis of ALIS Alberta data pertaining to various fields and their yearly earning potentials. Create an        application that can aid Alberta high school students in making informed career and education decisions. You can visit this site publicly at                        https://stubenhancer.ca/
@@ -56,13 +56,13 @@ The objective of this lab is to gain insight into the importance of the collisio
  <!--- CYBER SECURITY COMPETITIONS START -->
 <details><summary>Cyber Security Competitions</summary>
   
-# [National Cyber League 2022 Individual Game (click for full report)](https://cyberskyline.com/report/1G0N5593TNNP)
+## [National Cyber League 2022 Individual Game (click for full report)](https://cyberskyline.com/report/1G0N5593TNNP)
   
 <p float="center">
   <img src="https://github.com/LiamWRyan/image_src_repo/blob/main/2.jpg" width="450" />
 </p>
   
-# [National Cyber League 2022 Team Game (click for full report)](https://cyberskyline.com/report/K6GNP328YFGF)
+## [National Cyber League 2022 Team Game (click for full report)](https://cyberskyline.com/report/K6GNP328YFGF)
 
 <p float="center">
   <img src="https://github.com/LiamWRyan/image_src_repo/blob/main/NCL2022_team_1.jpg" width="450" />
