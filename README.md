@@ -52,7 +52,7 @@ More projects will be added in the near future...
 # [National Cyber League 2022 Individual Game (click for full report)](https://cyberskyline.com/report/1G0N5593TNNP)
   
 <p float="center">
-  <img src="https://github.com/LiamWRyan/image_src_repo/blob/main/1.jpg" width="450" />
+  <img src="https://github.com/LiamWRyan/image_src_repo/blob/main/2.jpg" width="450" />
 </p>
   
 # [National Cyber League 2022 Team Game (click for full report)](https://cyberskyline.com/report/K6GNP328YFGF)
