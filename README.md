@@ -21,7 +21,7 @@
 ## [Project 3: Dash & Plotly Information Visualization Web Application](https://github.com/LiamWRyan/StubEnhancer) 
 
 ### Stubenhancer (Fall 2022)
-  #### Using machine learning methodolgies and statitiscal analysis of ALIS Alberta data pertaining to various fields and their yearly earning potentials. Create an        application that can aid Alberta high school students in making informed career and education decisions. You can visit this site publicly at                        https://stubenhancer.ca/
+  #### The objective of our application is to help our target audience make informed education and career decisions. We do this through interactive visualizations that   abstracts the relevant data in meaningful ways. Further, we offer our users access to predictive models that compliment our data. You can visit this site publicly at   https://stubenhancer.ca/
   
 ---  
 More projects will be added in the near future...
