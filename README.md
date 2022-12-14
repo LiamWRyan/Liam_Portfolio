@@ -15,7 +15,7 @@
 ## [Project 1.5: Custom Mail Transfer Protocol](https://github.com/LiamWRyan/Simple-Mail-Transfer-Server-Client)
 
 ### Simple Mail Transfer Protocol Client & Server (Fall 2020)
-  #### A python application which handles all the logic for a SMTP client and server.
+  #### A python application which handles all the logic for a SMTP client and server. Here is a video outling the functionality of this application https://www.youtube.com/watch?v=U5VPWlOsfaw.
 
 <!---PROJECT 2 -->          
 ## [Project 2: Property Assessment GUI.](https://github.com/LiamWRyan/PropertyAssessmentGUI) 
