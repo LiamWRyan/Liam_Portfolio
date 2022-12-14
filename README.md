@@ -7,7 +7,15 @@
 ## [Project 1: Android Scheduling Application.](https://github.com/LiamWRyan/w21goldwasser) 
 
 ### Scheduling Application: Team Goldwasser (Winter 2021) 
-  #### Create an Android application for a food court business that will allow the manager to build and view an employee schedule and deliver that schedule to said        employees.
+  #### Create an Android application for a food court business that will allow the manager to build and view an employee schedule and deliver that schedule to said        employees. Github does not allow you to change the visibility of a fork apparently, as such, here is a link to a video of the application https://www.youtube.com/watch?v=CfYn4Q1W5PI.
+  
+  
+<!---PROJECT 1.5 -->
+
+## [Project 1.5: Custom Mail Transfer Protocol](https://github.com/LiamWRyan/Simple-Mail-Transfer-Server-Client)
+
+### Simple Mail Transfer Protocol Client & Server (Fall 2020)
+  #### A python application which handles all the logic for a SMTP client and server.
 
 <!---PROJECT 2 -->          
 ## [Project 2: Property Assessment GUI.](https://github.com/LiamWRyan/PropertyAssessmentGUI) 
