@@ -1,5 +1,6 @@
 # Hi there 👋
-(This is in the progress of being built, I have several projects I have yet to add)
+I am still constructing this portfolio and have both software development and security related projets that I have yet to add. Feel free to
+look at some of the highlights here and peruse through my other repos not listed here.
 
 <details><summary> Code Projects</summary>
 
