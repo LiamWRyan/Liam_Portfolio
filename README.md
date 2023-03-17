@@ -4,21 +4,13 @@
 <details><summary> Code Projects</summary>
 
 <!---PROJECT 1 -->
-## [Project 1: Android Scheduling Application.](https://github.com/LiamWRyan/w21goldwasser) 
-
-### Scheduling Application: Team Goldwasser (Winter 2021) 
-  #### An Android application for a food court business that will allow the manager to build and view an employee schedules and deliver that schedule to said        employees. Github does not allow you to change the visibility of a fork, as such, here is a link to a video of the application https://www.youtube.com/watch?v=CfYn4Q1W5PI.
-  
-  
-<!---PROJECT 1.5 -->
-
-## [Project 1.5: Custom Mail Transfer Protocol](https://github.com/LiamWRyan/Simple-Mail-Transfer-Server-Client)
+## [Project 1: Custom Mail Transfer Protocol](https://github.com/LiamWRyan/Simple-Mail-Transfer-Server-Client)
 
 ### Simple Mail Transfer Protocol Client & Server (Fall 2020)
-  #### A python application which handles all the logic for a SMTP client and server. Here is a video outling the functionality of this application https://www.youtube.com/watch?v=U5VPWlOsfaw.
+  #### A python application which handles all the logic for a SMTP client and server. Here is a video showing the functionality of this application https://www.youtube.com/watch?v=U5VPWlOsfaw.
 
 <!---PROJECT 2 -->          
-## [Project 2: Property Assessment GUI.](https://github.com/LiamWRyan/PropertyAssessmentGUI) 
+## [Project 2: Property Assessment GUI](https://github.com/LiamWRyan/PropertyAssessmentGUI) 
 
 ### Edmonton Property Assessment GUI (Fall 2021)
   #### a Java based GUI that supports the various querying of property assessments in Edmonton using Edmontons Open Data Portal API.
