@@ -38,7 +38,7 @@ More projects will be added in the near future...
 <details><summary>Pen Testing Vulnerable Machines</summary>
   
   ## [Enumerating the Corrosion 2 VulnHub Machine](https://github.com/LiamWRyan/Corrosion-2-Pen-Testing/blob/main/Security%20Threat%20and%20Risk%20Assesment.pdf)    
-  Using various enumeration tools, we succesfully gain access to the server and escalate our privilege to that of root. The following video outlines the           *successful* steps we took https://www.youtube.com/watch?v=vRGzyZh4btQ (apologies for audio quality at some points).
+  Using various enumeration tools, we succesfully gain access to the server and escalate our privilege to that of root. 
   
   </details>
   
