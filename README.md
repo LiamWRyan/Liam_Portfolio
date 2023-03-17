@@ -32,21 +32,7 @@ More projects will be added in the near future...
 
   <details><summary>Data & Information Security</summary>
   
-  <!--- Cryptography Section -->
-  <details><summary>Cryptography</summary>
-    
-  <!--- hashlength extension pdf -->
-  ## [Hash Length Extension Lab](https://github.com/LiamWRyan/MD5-Hash-Length-Extension-SEED-LAB/blob/main/Hash%20Length%20Extension%20Attack%20Lab.pdf)
-When a client and a server communicate over the internet, there is a potential threat of a Man in the Middle Attack (MITM). To prevent this, the server should take the initiative and verify the authenticity of the request received from the client. This can be accomplished by using a Message Authentication Code (MAC) and attaching it to the end of the request. A MAC is created by combining a secret key and the message, but concatenating the key with the message and computing the one-way hash is an insecure method that makes it possible for an attacker to alter the message without knowing the secret key.
-  <!--- hashlength extension pdf -->
-    
-  <!--- MD5 collision pdf -->
-  ## [MD5 Collision Lab](https://github.com/LiamWRyan/MD5-Collision-Attack-Seed-Lab/blob/main/MD5%20Collision%20Writeup.pdf)
-The purpose of this laboratory exercise is to understand the significance of the collision-resistance attribute of a hash function. To be deemed secure, a one-way hash function must fulfill several requirements. The first is the one-way property, which means that given the hash (h), it should be practically impossible to determine the input (M). The second property, which is the focus of this lab, is the collision-resistance property. It should be computationally infeasible (cost more to do than the information is worth) to find two distinct inputs that have the same hash value. A collision arises when this condition is violated, i.e., Hash(M1) == Hash(M2). In this lab, we will leverage this collision property (or lack thereof) to create two separate programs that generate the same MD5 checksum (hash). 
-  <!--- MD5 collision pdf -->
-
   
-</details>
  
 ---
 <details><summary>Pen Testing Vulnerable Machines</summary>
