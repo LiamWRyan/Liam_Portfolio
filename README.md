@@ -34,7 +34,7 @@ More projects will be added in the near future...
   <details><summary>Data & Information Security</summary>
   
   
- 
+ <!---
 ---
 <details><summary>Pen Testing Vulnerable Machines</summary>
   
@@ -42,6 +42,7 @@ More projects will be added in the near future...
   Using various enumeration tools, we succesfully gain access to the server and escalate our privilege to that of root. 
   
   </details>
+  -->
   
 ---
  <!--- CYBER SECURITY COMPETITIONS START -->
